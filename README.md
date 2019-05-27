@@ -1,8 +1,17 @@
-Challenge contents:
-=================
+# nodejs coding challenge:
 
-overview:
--------------
+## Glitch Instructions
+
+1. **Clone**: Go to this URL: https://glitch.com/~cnodejs-santa-app and click the `Remix your own` button to clone the code. This will copy all the code to a new, randomly generated URL (e.g. https://glitch.com/edit/#!/capable-toothpaste). This is your URL to code on, no other candidates will have this URL.
+
+2. **Code**: You can edit the code directly in the Glitch editor or use your editor of choice (VSCode, Sublime, etc) and copy paste the files into Glitch. Git import and export is also available in the Tools menu on the bottom left. How you edit the code is entirely up to you, so long as your finished work is viewable at the URL created in the previous step.
+
+> **NOTE**: Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+
+4. **Turn in**: When you finish coding, send your URL to us so we can review your code.
+
+## Objectives overview:
+
 The webapp should display a form for children to enter their id and a free text message to santa.
 
 When submitting the form, the server should check:
@@ -22,8 +31,8 @@ Every 15seconds, the server should send an email with information on all pending
 Email sender should be set as do_not_reply@northpole.com, and sent to santa@northpole.com
 
 
-tips and detailed instructions:
------------------------------
+## tips and detailed instructions:
+
 - somebody started to work on the app, but left it unfinished. It is up to you to complete it. You are allowed to restart from scratch if you prefer.
 - the look and feel of the application for this challenge is not the priority. The pages/email do not need to look good, as long as they convey the information effectively.
 - you should fetch the JSON data at every form submission (consider it as an API)
