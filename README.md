@@ -30,7 +30,7 @@ Every 15seconds, the server should send an email with information on all pending
 - child's address (eg. 219-1130, Ikanikeisaiganaibaai, Musashino-shi, Tokyo)
 - request free text as was input in the form
 
-Email sender should be set as do_not_reply@northpole.com, and sent to santa@northpole.com\
+Email sender should be set as do_not_reply@northpole.com, and sent to santa@northpole.com
 
 ## tips and detailed instructions:
 
